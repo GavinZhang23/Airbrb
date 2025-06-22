@@ -1,0 +1,19 @@
+{
+    "title": "444",
+    "address": "2 Ascot Ave",
+    "price": "5",
+    "thumbnail": "https://www.youtube.com/watch?v=tqZlUx4qj1k",
+    "photos": [],
+    "propertyType": "house",
+    "bathrooms": "333",
+    "amenities": [
+        "bbqGrill"
+    ],
+    "bedrooms": [
+        {
+            "bedType": "Single",
+            "beds": 1
+        }
+    ]
+}
+
